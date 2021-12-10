@@ -1,0 +1,22 @@
+body {
+  box-shadow: none!important;
+}
+p {
+  margin: 0!important;
+}
+.name {
+  margin-bottom: 5px!important;
+  font-size: 25px;
+}
+.description {
+  font-size: 18px;
+}
+.row {
+  --bs-gutter-x: 0!important;
+}
+.card-body {
+  padding: 0.5rem 1rem!important;
+}
+.btn-edit {
+  width: 140px;
+}
